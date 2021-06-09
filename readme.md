@@ -2,7 +2,7 @@
 
 Проект десктопного калькулятора выполненный с помощью TypeScript и ElectronJS.
 
-![](https://raw.githubusercontent.com/Progovich/electron-ts-nodejs-calculator/main/other/calc.png)
+![](https://github.com/Progovich/electron-ts-nodejs-calculator/blob/master/other/calc.png)
 
 Для запуска необходимо открыть консоль и ввести последовательно команды
 
@@ -17,7 +17,7 @@ npm run start
 
 The application desktop calc.  He is based on TypeScript and ElectronJS.
 
-![](https://raw.githubusercontent.com/Progovich/electron-ts-nodejs-calculator/main/other/calc.png)
+![](https://github.com/Progovich/electron-ts-nodejs-calculator/blob/master/other/calc.png)
 
 ## Start
 
