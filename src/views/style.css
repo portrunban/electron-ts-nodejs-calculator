@@ -1,0 +1,86 @@
+html {
+  background-color: #1f1f1f;
+  font-family: 'Segoe UI';
+  font-size: 19px;
+  color: white;
+  font-weight: 400;
+}
+
+.container-after-titlebar {
+  margin: 3px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.number {
+  user-select: none;
+  cursor: default;
+  padding: 10px;
+  height: 30px;
+  text-align: center;
+  margin: 1px;
+  width: 57px;
+  background-color: black;
+}
+
+.action {
+  user-select: none;
+  cursor: default;
+  padding: 10px;
+  height: 30px;
+  text-align: center;
+  margin: 1px;
+  width: 57px;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.equal {
+  user-select: none;
+  cursor: default;
+  padding: 10px;
+  height: 30px;
+  text-align: center;
+  margin: 1px;
+  width: 57px;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+div > p {
+  margin: 13px;
+}
+
+.input {
+  width: 100%;
+}
+
+.input > .prevNumber {
+  color: rgb(156, 156, 156);
+  margin: 0px 0px;
+  font-weight: 500;
+  font-size: 15px;
+  width: 300px;
+  height: 20px;
+  text-align: right;
+}
+
+.input > .currNumber > p {
+  margin: 0px 0px;
+  font-weight: 500;
+  font-size: 35px;
+  width: 300px;
+  text-align: right;
+}
+
+::-webkit-scrollbar {
+  width: 0px; /* ширина scrollbar'a */
+}
+
+body > div.container-after-titlebar > div:nth-child(25) {
+  background-color: rgb(81, 100, 35);
+}
+
+body > div.container-after-titlebar > div:nth-child(25) > p {
+  font-size: 28px;
+  background-color: rgb(81, 100, 35);
+  margin: 5px;
+}
