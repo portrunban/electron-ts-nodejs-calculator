@@ -21,7 +21,7 @@ The application desktop calc.  He is based on TypeScript and ElectronJS.
 
 ## Start
 
-You must enter the next commands in the terminal
+You must enter the next commands in a terminal
 
 ```
 npm i
