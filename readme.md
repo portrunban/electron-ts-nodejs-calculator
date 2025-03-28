@@ -1,40 +1,110 @@
+# Calculator with ElectronJS and TypeScript 🧮
 
+<div align="center">
+  <img src="other/calc.png" alt="Calculator Screenshot" width="300"/>
+</div>
 
-<h1 align="center">Calculator with ElectonJS and Typescript 👋</h1>
+## Description
 
-## EN
+A modern desktop calculator application built with ElectronJS and TypeScript. This project demonstrates the integration of web technologies for creating cross-platform desktop applications.
 
-Hello!
+## Features
 
-This application is calculator with library ElectronJS and TypeScript (Node JS).
+- Cross-platform desktop application
+- Modern TypeScript implementation
+- Clean and intuitive user interface
+- Basic calculator operations
+- Built with ElectronJS for native desktop experience
 
-![](https://github.com/Progovich/electron-ts-nodejs-calculator/blob/master/other/calc.png)
+## Prerequisites
 
-### Start
+- Node.js (v14 or higher) - [Download Node.js](https://nodejs.org/en/)
+- npm (comes with Node.js)
 
-You must enter the next commands in a terminal
+## Installation
 
+1. Clone the repository:
+```bash
+git clone https://github.com/Progovich/electron-ts-nodejs-calculator.git
+cd electron-ts-nodejs-calculator
 ```
-npm i
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+## Running the Application
+
+To start the calculator, run:
+```bash
 npm run start
 ```
 
-You must have the Node Js platform installed to work https://nodejs.org/en/
+## Development
 
+The project uses:
+- ElectronJS for the desktop application framework
+- TypeScript for type-safe JavaScript
+- Node.js as the runtime environment
 
+## License
 
-## RU
+This project is open source and available under the MIT License.
 
-Проект десктопного калькулятора выполненный с помощью TypeScript и ElectronJS.
+---
 
-![](https://github.com/Progovich/electron-ts-nodejs-calculator/blob/master/other/calc.png)
+# Калькулятор на ElectronJS и TypeScript 🧮
 
-Для запуска необходимо открыть консоль и ввести последовательно команды
+<div align="center">
+  <img src="https://github.com/Progovich/electron-ts-nodejs-calculator/blob/master/other/calc.png" alt="Скриншот калькулятора" width="300"/>
+</div>
 
+## Описание
+
+Десктопное приложение-калькулятор, разработанное с использованием ElectronJS и TypeScript. Проект демонстрирует интеграцию веб-технологий для создания кроссплатформенных десктопных приложений.
+
+## Возможности
+
+- Кроссплатформенное десктопное приложение
+- Современная реализация на TypeScript
+- Чистый и интуитивно понятный интерфейс
+- Базовые операции калькулятора
+- Создано с помощью ElectronJS для нативного десктопного опыта
+
+## Требования
+
+- Node.js (v14 или выше) - [Скачать Node.js](https://nodejs.org/en/)
+- npm (поставляется с Node.js)
+
+## Установка
+
+1. Клонируйте репозиторий:
+```bash
+git clone https://github.com/Progovich/electron-ts-nodejs-calculator.git
+cd electron-ts-nodejs-calculator
 ```
-npm i
+
+2. Установите зависимости:
+```bash
+npm install
+```
+
+## Запуск приложения
+
+Для запуска калькулятора выполните:
+```bash
 npm run start
 ```
 
-Для работы у вас должна быть установлена платформа Node Js https://nodejs.org/en/
+## Разработка
+
+Проект использует:
+- ElectronJS как фреймворк для десктопного приложения
+- TypeScript для типобезопасного JavaScript
+- Node.js как среда выполнения
+
+## Лицензия
+
+Этот проект с открытым исходным кодом и доступен под лицензией MIT.
 
